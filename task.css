@@ -1,0 +1,23 @@
+.name{
+  
+    margin-left: 5%;
+    display: block;
+    
+    margin-right: 70%;
+    font-weight: bolder;
+    font-size: x-large;
+     color: #6e2f2f;
+     
+     
+     
+  }
+  .admin{
+    display: block;
+    
+    margin-left: 80%;
+  float: right;
+  margin-top: 50px;
+  margin-right: 40px;
+    
+    
+  }
